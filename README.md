@@ -26,9 +26,10 @@
 ## Estatísticas
 
 <div>
-<a href="https://github.com/DevGuiPereira">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGuiPereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGuiPereira&layout=donut&langs_count=7&theme=dracula"/>
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGuiPereira&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGuiPereira&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 
