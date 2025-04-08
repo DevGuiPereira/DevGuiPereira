@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Guilherme Reis Pereira 😁👍
 
-👨‍💻 Estudante de Sistemas de Informação na UEMG | Estagiário na Sicredi das Culturas RS/MG
+👨‍💻 Estudante de Sistemas de Informação na UEMG | Suporte de Software de Rastreamento e Telemetria na empresa Ranor
 
 🎓 Estou atualmente cursando Sistemas de Informação na UEMG, onde estou imerso em um ambiente de aprendizado dinâmico e desafiador, buscando desenvolver habilidades técnicas e analíticas essenciais para a área de tecnologia.
 
@@ -12,7 +12,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> 
 
 ## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
+          
 
 
 ## Contatos
