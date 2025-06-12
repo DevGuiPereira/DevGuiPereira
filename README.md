@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Guilherme Reis Pereira 😁👍
 
-👨‍💻 Estudante de Sistemas de Informação na UEMG | Suporte de Software de Rastreamento e Telemetria na empresa Ranor
+👨‍💻 Estudante de Sistemas de Informação na UEMG | Suporte de Software de Rastreamento e Telemetria na empresa Ranor.
 
-🎓 Estou atualmente cursando Sistemas de Informação na UEMG, onde estou imerso em um ambiente de aprendizado dinâmico e desafiador, buscando desenvolver habilidades técnicas e analíticas essenciais para a área de tecnologia.
+🎓 Atualmente estou cursando Sistemas de Informação na UEMG, imerso em um ambiente de aprendizado dinâmico e desafiador, buscando desenvolver habilidades técnicas e analíticas essenciais para a área de tecnologia.
 
-💡 Sou apaixonado por explorar todas as áreas da Tecnologia, estou determinado a aprender continuamente e me adaptar às demandas do setor em constante evolução. Sou comunicativo, colaborativo e estou entusiasmado em enfrentar novos desafios que me permitam expandir meu conhecimento e contribuir para projetos inovadores.
+💡 Sou apaixonado por explorar todas as áreas da Tecnologia, estou determinado a aprender continuamente e me adaptar às demandas deste setor em constante evolução. Sou comunicativo, colaborativo e estou entusiasmado para enfrentar novos desafios que me permitam expandir meu conhecimento e contribuir para projetos inovadores.
 
 🚀 Busco oportunidades para aplicar minhas habilidades e conhecimentos em programação, além de colaborar em projetos que me permitam crescer profissionalmente enquanto contribuo para o sucesso da equipe e da organização.
 
