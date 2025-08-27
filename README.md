@@ -28,9 +28,9 @@ Tenho experiência em análise de dados, automação de processos, suporte técn
 ## Contatos
 
 <div>
-<a href="https://instagram.com/guilherme_reispereira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
+<a href="https://instagram.com/guilherme_reispereira" target="blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
 <a href = "mailto:guilhermerp2004@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
-<a href="https://www.linkedin.com/in/guilherme-pereira-102b13271/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>   
+<a href="https://www.linkedin.com/in/guilherme-pereira-102b13271/" target="blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>   
 </div>
 
 <!-- ## Estatísticas
