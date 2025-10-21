@@ -1,43 +1,92 @@
-## Olá! Eu sou o Guilherme Pereira 😁👍
+# Olá, eu sou o Guilherme Pereira 👋
 
-🎓 **Graduando em Sistemas de Informação (UEMG)**  
-Atualmente no 6º período, com previsão de conclusão em 2026. Apaixonado por tecnologia e sempre em busca de aprendizado contínuo.
+### Estudante de Sistemas de Informação | Focado em Análise de Dados e Ciência de Dados
 
-🚀 **Buscando Oportunidades Profissionais**  
-Tenho experiência em análise de dados, automação de processos, suporte técnico e rotinas administrativas. Meu objetivo é aplicar e expandir meus conhecimentos em ambientes colaborativos e inovadores na área de tecnologia.
+<br>
 
+## 🌎 Sobre Mim
 
-## **Experiência Profissional & Principais Atividades**
-- **Freelancer – Automação de Processos (Do It Gestão Estratégica, 07/2025 - Atual)**
-    - Desenvolvimento e implementação de automações utilizando APIs.
-    - Integrações com Google Sheets, otimizando operações e reduzindo tarefas manuais.
-- **Suporte Técnico & Analista de Software (Ranor Telemetria, 01/2025 – 06/2025)**
-    - Atendimento, diagnóstico de problemas, configuração de equipamentos e orientação técnica a clientes.
-- **Jovem Aprendiz & Estagiário (Sicredi das Culturas RS/MG, 11/2022 – 02/2024; 03/2024 – 01/2025)**
-    - Atividades administrativas, atendimento ao cliente, controle de arquivos e abertura de contas.
+Graduando em Sistemas de Informação pela UEMG (previsão 2026).
+Apaixonado por tecnologia, com foco em como usar dados para gerar insights e automatizar processos complexos.
+Explorando ativamente o campo de Inteligência Artificial, incluindo o desenvolvimento e treinamento de modelos de Machine Learning.
+Buscando oportunidades para aplicar e expandir meus conhecimentos em Análise de Dados, IA e Engenharia de Software.
 
+<br>
 
-## Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60"/>           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" height="60"/>
+## 🛠️ Meu Tech Stack
 
-## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" />          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60"/>
-          
+Aqui estão as tecnologias que uso no dia-a-dia e que estou me aprofundando:
 
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
+      <br><strong>Pandas</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+      <br><strong>Linux</strong>
+    </td>
+    <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
+        <br><strong>VSCode</strong>
+    </td>
+  </tr>
+</table>
 
-## Contatos
+<br>
 
-<div>
-<a href="https://instagram.com/guilherme_reispereira" target="blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
-<a href = "mailto:guilhermerp2004@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
-<a href="https://www.linkedin.com/in/guilherme-pereira-102b13271/" target="blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>   
-</div>
+## 🏆 Certificações
 
-<!-- ## Estatísticas
+* 🏅 **Oracle Cloud Infrastructure 2025 Certified Data Science Professional**
+    * *Credencial: https://catalog-education.oracle.com/ords/certview/sharebadge?id=5A2726879324D380C1F810BC624FA2D5D0FEC093FC88BF76C7C17FC2340E2BD4*
+* 🏅 **Oracle Data Platform 2025 Certified Foundations Associate**
+    * *Credencial: https://catalog-education.oracle.com/ords/certview/sharebadge?id=5A2726879324D380C1F810BC624FA2D5B4BF9BFE3A7ABA7D4A5B33494E8D41AD*
 
-<div>
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGuiPereira&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGuiPereira&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
-</div> -->
+## 💼 Experiência Profissional
+
+* **Freelancer – Automação de Processos** | Do It Gestão Estratégica
+    *(07/2025 - Atual)*
+    * Desenvolvimento e implementação de automações utilizando APIs e integração com Google Sheets para otimização de operações.
+
+* **Suporte Técnico & Analista de Software** | Ranor Telemetria
+    *(01/2025 – 06/2025)*
+    * Atendimento, diagnóstico de problemas, configuração de equipamentos e orientação técnica a clientes.
+
+* **Jovem Aprendiz & Estagiário** | Sicredi das Culturas RS/MG
+    *(11/2022 – 01/2025)*
+    * Experiência em atividades administrativas, atendimento ao cliente, controle de arquivos e rotinas de abertura de contas.
+
+<br>
+
+## 🔗 Conecte-se Comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/guilherme-pereira-102b13271/" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:guilhermerp2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://instagram.com/guilherme_reispereira" target="blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+<br>
