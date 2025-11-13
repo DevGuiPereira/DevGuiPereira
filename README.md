@@ -61,8 +61,12 @@ Aqui estão as tecnologias que uso no dia-a-dia e que estou me aprofundando:
 
 ## 💼 Experiência Profissional
 
-* **Freelancer – Automação de Processos** | Do It Gestão Estratégica
-    *(07/2025 - Atual)*
+* **Estagiário de Dados** | Statum
+    *(11/2025 - Atual)*
+    * Suporte a banco de dados, com foco na resolução de chamados, otimização de consultas SQL e desenvolvimento de scripts Python.
+
+* **Freelancer & Automação de Processos** | Do It Gestão Estratégica
+    *(07/2025 - 11/2025)*
     * Desenvolvimento e implementação de automações utilizando APIs e integração com Google Sheets para otimização de operações.
 
 * **Suporte Técnico & Analista de Software** | Ranor Telemetria
