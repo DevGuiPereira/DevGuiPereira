@@ -18,6 +18,18 @@ Buscando oportunidades para aplicar e expandir meus conhecimentos em Análise de
 Aqui estão as tecnologias que uso no dia-a-dia e que estou me aprofundando:
 
 <table>
+    <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="60" height="60" alt="Oracle"/>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" alt="Azure Data Base"/>
+      <br><strong>Azure</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="60" height="60" alt="SQL Server"/>
+    </td>
+  </tr>
   <tr>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" />
@@ -61,8 +73,13 @@ Aqui estão as tecnologias que uso no dia-a-dia e que estou me aprofundando:
 
 ## 💼 Experiência Profissional
 
+* **Cientista de Dados** | Statum
+    *(02/2026 - Atual)*
+    * Desenvolvimento de scripts em Python para automação de processos, análise de dados e melhoria contínua das operações.
+    * Atuação na sustentação e otimização de bancos de dados, com foco em performance, integridade e eficiência das consultas SQL.
+
 * **Estagiário de Dados** | Statum
-    *(11/2025 - Atual)*
+    *(11/2025 - 02/2026)*
     * Suporte a banco de dados, com foco na resolução de chamados, otimização de consultas SQL e desenvolvimento de scripts Python.
 
 * **Freelancer & Automação de Processos** | Do It Gestão Estratégica
