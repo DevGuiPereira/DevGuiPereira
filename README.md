@@ -76,6 +76,7 @@ Aqui estão as tecnologias que uso no dia-a-dia e que estou me aprofundando:
 * **Cientista de Dados** | Statum
     *(02/2026 - Atual)*
     * Desenvolvimento de scripts em Python para automação de processos, análise de dados e melhoria contínua das operações.
+    * Criação de Dashboards e Relatórios interativos
     * Atuação na sustentação e otimização de bancos de dados, com foco em performance, integridade e eficiência das consultas SQL.
 
 * **Estagiário de Dados** | Statum
